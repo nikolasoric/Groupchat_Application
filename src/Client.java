@@ -80,4 +80,6 @@ public class Client {
         client.listenForMessage();
         client.sendMessage();
     }
+
+    //new method
 }
